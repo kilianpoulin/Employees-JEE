@@ -1,0 +1,33 @@
+.button  	        
+{ 
+  background-color: rgb(33,150,243);
+  border : 1px solid lightblue;
+  padding: 5px 10px 5px 10px;  
+  width: 10%;   
+  height : 5%;
+  box-sizing: border-box;  
+  font-family: PT sans;
+  font-size: 13px; 
+  font-weight: bold; 
+  letter-spacing: 2px; 
+  margin: 10px 0 0 0;  
+  text-transform: uppercase;
+  color: white; 
+}
+
+.no_member{
+    color:blue;
+    font-weight:bold;
+}
+
+.logout{
+    float:right;
+    margin-right:5%;
+    margin-top:1%;
+}
+.logout img{
+    width:3%;
+    padding-left:2%;
+}
+
+
